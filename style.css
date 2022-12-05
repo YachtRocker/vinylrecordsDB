@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  background-color: rgb(198, 201, 192);
+}
+
+.topBar {
+  padding-top: 5px;
+  background-color: rgb(38, 39, 39);
+  height: 75px;
+  width: 100%;
+}
+
+.logo {
+  text-align: left;
+  color: azure;
+}
+
+.mainPageBody {
+  padding-top: 100px;
+  font-size: 50px;
+  text-align: center;
+  background-color: rgb(198, 201, 192);
+  height: 100%;
+}
