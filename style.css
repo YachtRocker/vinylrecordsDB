@@ -29,3 +29,8 @@ html {
   background-color: rgb(198, 201, 192);
   height: 100%;
 }
+
+.submission-container {
+  font-size: 23px;
+  font-weight: bold;
+}
